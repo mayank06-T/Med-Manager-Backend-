@@ -78,6 +78,8 @@ spring.jpa.hibernate.ddl-auto=update
 => POST /sales — Save multi-item sale
 
 🌐 Frontend
+repo => https://github.com/mayank06-T/Med-Manager
+
 Frontend built with HTML, CSS, and JavaScript — includes:
 
 Glassmorphism UI
