@@ -68,3 +68,22 @@ spring.jpa.hibernate.ddl-auto=update
 ./mvnw spring-boot:run
 
 
+📡 API Sample
+=> GET /products — List all products
+
+=> POST /products — Add a product
+
+=> DELETE /products/{id} — Delete a product
+
+=> POST /sales — Save multi-item sale
+
+🌐 Frontend
+Frontend built with HTML, CSS, and JavaScript — includes:
+
+Glassmorphism UI
+
+Dynamic section switching
+
+Real-time inventory & suggestion search
+
+
